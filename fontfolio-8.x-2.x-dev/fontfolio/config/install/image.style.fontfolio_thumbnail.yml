@@ -1,0 +1,15 @@
+uuid: 7d22ecc3-eeda-46b4-ab00-a4a6fdf52296
+langcode: en
+status: true
+dependencies: {  }
+name: fontfolio_thumbnail
+label: 'FontFolio Thumb  281x211'
+effects:
+  c4a93a8f-f6cb-49e0-a900-e7d83b3fb190:
+    uuid: c4a93a8f-f6cb-49e0-a900-e7d83b3fb190
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 281
+      height: 211
+third_party_settings: {  }
