@@ -1,6 +1,0 @@
-everywhere:
-  version: VERSION
-  js:
-    js/fontfolio.js: {}
-  dependencies:
-    - core/jquery
