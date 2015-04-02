@@ -1,0 +1,15 @@
+uuid: dcf1b9f7-36d1-442a-b00e-1472f74c4811
+langcode: en
+status: true
+dependencies: {  }
+name: fontfolio_medium
+label: 'FontFolio Medium  562x464'
+effects:
+  64d9dfd8-3f0b-409c-9f00-0b1849c71d8d:
+    uuid: 64d9dfd8-3f0b-409c-9f00-0b1849c71d8d
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 562
+      height: 464
+third_party_settings: {  }

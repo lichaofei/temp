@@ -1,0 +1,16 @@
+uuid: 0756244e-5f6d-4b84-8d60-96855051f243
+langcode: en
+status: true
+dependencies: {  }
+name: fontfolio_large
+label: 'FontFolio Large Width 700'
+effects:
+  6e1c5b49-eeff-4d40-af06-6a0844ab8993:
+    uuid: 6e1c5b49-eeff-4d40-af06-6a0844ab8993
+    id: image_scale
+    weight: 1
+    data:
+      width: 700
+      height: null
+      upscale: false
+third_party_settings: {  }
